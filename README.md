@@ -1,6 +1,6 @@
 # CIS-641-HW2-GRANDHI
 # Venkata Surya Manikanta Grandhi
-## intrests
+## Intrests
  Travelling 
 
  Visiting Temples And like to know Scientific reasons
