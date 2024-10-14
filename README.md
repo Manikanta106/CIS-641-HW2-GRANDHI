@@ -1,13 +1,13 @@
 # CIS-641-HW2-GRANDHI
 # Venkata Surya Manikanta Grandhi
 ## Intrests
- Travelling 
+- Travelling 
 
- Visiting Temples And like to know Scientific reasons
+- Visiting Temples And like to know Scientific reasons
 
- Playing games
+- Playing games
 
- learn new things
+- learn new things
 
 ### Technical Background
 I don't have any technical backgound as of now i'm a fresher
